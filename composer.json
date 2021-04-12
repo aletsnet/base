@@ -1,0 +1,16 @@
+{
+    "require": {
+        "almasaeed2010/adminlte": "~3.1",
+        "phpoffice/phpspreadsheet" : "~1.17",
+        "phpmailer/phpmailer": "~6.4",
+        "tecnickcom/tcpdf": "~6.4",
+        "pradosoft/prado": "~4.1",
+        "firebase/php-jwt": "~5.2"
+    },
+    "repositories": [
+    {
+        "type": "composer",
+        "url": "https://asset-packagist.org"
+    }
+]
+}

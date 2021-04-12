@@ -1,0 +1,4 @@
+protected/application.xml
+assets/*
+docs/*
+protected/runtime/*

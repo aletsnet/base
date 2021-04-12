@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sqlMapConfig>
+    <sqlMap name="sistema_base"  resource="maps/vw_sistemas.xml" />
+</sqlMapConfig>
